@@ -1,1 +1,3 @@
-# testlink
+# TestLink
+
+A minimal repository.
